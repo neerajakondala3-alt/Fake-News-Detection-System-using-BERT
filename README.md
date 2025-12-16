@@ -169,7 +169,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 👤 Author
 
 **Your Name**
-- GitHub: [](## 🔬 Methodology
+- GitHub: [https://github.com/neerajakondala3-alt]
+- ## 🔬 Methodology
 
 1. **Data Preprocessing**: Text cleaning, tokenization using BERT tokenizer
 2. **Model Architecture**: BERT-base-uncased + custom classification head
